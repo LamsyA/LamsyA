@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oalmide</h1>
+<h1 align="center">Hi 👋, I'm Olamide</h1>
 <h3 align="center">A Full Stack Ethereum Blockchain Developer, I am passionate about building decentralized applications that solves real-world project</h3>
 
 - 📫 How to reach me **olamide.adetula.1744@gmail.com**
