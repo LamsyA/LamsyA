@@ -20,4 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LamsyA&" alt="lamsyA" /></p>
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lamsyA&count_private=true&theme=tokyonight&showicons=true)]()
+
 ![](https://komarev.com/ghpvc/?username=lamsyA&color=green)
