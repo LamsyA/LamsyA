@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LamsyA&show_icons=true&locale=en" alt="LamsyA" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LamsyA&" alt="lamsyA" /></p>
+
+![](https://komarev.com/ghpvc/?username=lamsyA&color=green)
