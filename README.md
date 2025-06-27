@@ -1,6 +1,6 @@
 # About Lamsy
 
-I am a professional Web3 security researcher with extensive expertise in auditing smart contracts across multiple blockchain ecosystems including EVM, TON, Starknet and Solana. With a proven track record in identifying critical vulnerabilities and security issues, I specialize in comprehensive security reviews of DeFi protocols, staking mechanisms, cross-chain solutions, and tokenomics implementations. My technical proficiency spans Solidity, Cairo, and Rust, allowing me to provide thorough security assessments for projects built on various blockchain platforms.
+I am a professional Web3 security researcher. My technical proficiency spans Solidity, Cairo, and Rust, allowing me to provide thorough security assessments for projects built on various blockchain platforms.
 
 - Twitter: [@lamsy](https://x.com/lamsyhay)
 - Telegram : [lamsy](https://t.me/lasykay)
