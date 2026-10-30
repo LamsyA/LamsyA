@@ -1,6 +1,6 @@
 # About Lamsy
 
-I am a professional Web3 security researcher. My technical proficiency spans Solidity, Cairo, and Rust, allowing me to provide thorough security assessments for projects built on various blockchain platforms.
+I am a senior backend and a professional Web3 security researcher. My technical proficiency spans Node js, React, Solidity, Cairo, and Rust, allowing me to provide thorough security assessments for projects built on various blockchain platforms.
 
 - Twitter: [@lamsy](https://x.com/lamsyhay)
 - Telegram : [lamsy](https://t.me/lasykay)
